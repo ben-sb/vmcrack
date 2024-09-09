@@ -1,4 +1,4 @@
-;; this function returns 0 for debugging detected, 1 for wrong credential and 2 for correct credential
+; this function returns 0 for debugging detected, 1 for wrong credential and 2 for correct credential
 
 0x41a000:	jmp          0x41a010
 
